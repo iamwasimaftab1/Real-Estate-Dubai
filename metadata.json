@@ -1,0 +1,7 @@
+{
+  "name": "Realty UAE - Premium Real Estate Investment",
+  "description": "High-converting lead landing page for UAE real estate investment, featuring market insights and a streamlined inquiry process.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
